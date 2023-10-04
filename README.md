@@ -1,5 +1,6 @@
 # Testing Exercise
-Testing with Jest.
+## Description
+This is a simple exercise to practice writing tests with Jest.
 
 ## Instructions
 1. Fork and clone this repository.
